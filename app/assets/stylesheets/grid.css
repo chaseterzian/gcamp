@@ -69,7 +69,7 @@ background: #222;
 
 /* CODE UNDER THIS LINE */
 
-.col-1-var(){
+/*.col-1-var(){
   width: 8.33%;
   height: var()px;
   float: left;
@@ -91,7 +91,7 @@ background: #222;
 }
 
 .col-4{
-  /*width: 33.33%;*/
+  width: 33.33%;
   width: 32.5%;
   float: left;
   margin: 2px;
